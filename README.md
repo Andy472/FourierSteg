@@ -1,1 +1,5 @@
-# FourierSteg
+## Dependencies
+
+ - numpy
+ - pillow
+ - pypng
